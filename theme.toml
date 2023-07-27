@@ -1,0 +1,13 @@
+name = "zola-everforest"
+description = "inspired by everforest"
+license = "MIT"
+homepage = "https://github.com/NOVA-ME/zola-everforest"
+min_version = "0.0.1"
+demo = "https://nova-me.github.io/"
+
+[extra]
+
+
+[author]
+name = "NOVA-ME"
+homepage = "https://github.com/NOVA-ME/zola-everforest"
